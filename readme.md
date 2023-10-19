@@ -16,7 +16,7 @@
 <br>
 
 <p align="center">
-  <img alt="Pricing Table" src="./assets/image.png" width="100%">
+  <img alt="Pricing Table" src="./assets/Untitled.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
